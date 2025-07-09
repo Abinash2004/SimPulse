@@ -1,3 +1,4 @@
+gradio
 scikit-learn
 sentence-transformers
 numpy
