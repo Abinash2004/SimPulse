@@ -1,6 +1,6 @@
 # SimPulse 🔍
 
-**SimPulse** is a lightweight AI-powered semantic similarity engine designed to enhance claim verification in the **Smart Lost & Found System**. It uses sentence-transformer embeddings and a machine learning regressor to compare user-submitted claims with found item descriptions and return a match score.
+**SimPulse** is a lightweight AI-powered semantic similarity engine designed to enhance claim verification in the **Smart Lost & Found System** (Available in my Library). It uses sentence-transformer embeddings and a machine learning regressor to compare user-submitted claims with found item descriptions and return a match score.
 
 ---
 
