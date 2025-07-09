@@ -20,7 +20,7 @@ iface = gr.Interface(
     inputs=["text", "text"],
     outputs="number",
     title="SimPulse: Semantic Sentence Matcher",
-    description="Returns a semantic similarity score between a two sentencesclear. Built for AI integration in Smart Lost & Found System."
+    description="Returns a semantic similarity score between a two sentences. Built for AI integration in Smart Lost & Found System."
 )
 
 iface.launch()
